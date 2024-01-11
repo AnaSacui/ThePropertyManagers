@@ -1,2 +1,4 @@
+# mountpoints:
+#   /: https://drive.google.com/drive/u/3/folders/1Xg2AIwVYjOOtMVD5w4UXgKKfs7O7TeJA
 mountpoints:
-  /: https://drive.google.com/drive/u/3/folders/1Xg2AIwVYjOOtMVD5w4UXgKKfs7O7TeJA
+    /: https://ensemsysinc.sharepoint.com/sites/ana-aem-connector-testing-site-int/Shared%20Documents/website
